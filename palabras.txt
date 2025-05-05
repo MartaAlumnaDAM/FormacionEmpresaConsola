@@ -1,0 +1,57 @@
+AGI.- La inteligencia artificial general, también llamada inteligencia general artificial e inteligencia artificial fuerte, ​ es un tipo hipotético de inteligencia artificial que iguala o excede la inteligencia humana promedio.​
+Almacenamiento
+Analista
+Aplicación
+Arquitecto
+Artificial
+Atendido
+Automatización
+AWS.- Amazon Web Services es una colección de servicios de computación en la nube pública que en conjunto forman una plataforma de computación en la nube, ofrecidas a través de Internet por Amazon.com. Es usado en aplicaciones populares como Dropbox, Foursquare, HootSuite.
+BBDD
+Chatbot.- Los bot de charla o bot conversacional ​ son aplicaciones software que surgen en los años 1960, y que simulan mantener una conversación con una persona al proveer respuestas automáticas, las cuales son previamente establecidas por un conjunto de expertos a entradas realizadas por el usuario.
+Ciberdelincuencia.- Delito informático, delito cibernético o ciberdelito es toda aquella acción antijurídica que se realiza en el entorno digital, espacio digital o de Internet.
+Ciberseguridad.- La ciberseguridad se refiere a todas las tecnologías, prácticas y políticas para prevenir los ciberataques o mitigar su impacto.
+Cloud
+Comando
+Computadora
+Copilot Studio
+Data
+DBA
+Desarrollo
+Desatendido
+DevOps.- DevOps es un conjunto de prácticas que agrupan el desarrollo de software y las operaciones de TI. Su objetivo es hacer más rápido el ciclo de vida del desarrollo de software y proporcionar una entrega continua de alta calidad.
+Escalabilidad.- La escalabilidad es la propiedad deseable de un sistema, una red o un proceso, que indica su habilidad para reaccionar y adaptarse sin perder calidad, o bien manejar el crecimiento continuo de trabajo de manera fluida, o bien para estar preparado para hacerse más grande sin perder calidad en los servicios ofrecidos.
+Fortiguard.-  FortiGuard Labs es la entidad de investigación e inteligencia de amenazas de Fortinet. Ofrece protección oportuna, defensa proactiva y optimización de las operaciones. Amplíe la convergencia de las redes y la seguridad desde el borde de la red hasta los usuarios remotos. Admita empresas globales, sensibles a la seguridad y que priorizan la nube, así como la fuerza laboral híbrida.
+Framework.- Un entorno de trabajo​ o marco de trabajo​ es un conjunto estandarizado de conceptos, prácticas y criterios para enfocar un tipo de problemática particular que sirve como referencia, para enfrentar y resolver nuevos problemas de índole similar.
+Genérica
+Gestión
+Git
+GitHub Compare
+IA
+Industrial
+Inteligencia
+Kubernetes
+Launch
+Launcher
+Malware
+Metodología ágil
+Performance
+Plataforma
+Procesos
+Programación
+Protección
+Red
+Remoto
+Robot
+Robótica
+RPA
+SCRUM
+Servicios
+SGSI	
+Sistema	
+Software	
+Solución	
+Tecnología	
+Transformación	
+UIPath	
+Web

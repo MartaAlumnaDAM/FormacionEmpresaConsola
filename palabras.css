@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #B4B198;
+    padding: 20px;
+    color: white;
+}
+
+.charlas-container {
+    max-width: 600px;
+    margin: auto;
+    background-color: #889687;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #455442;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+.mensaje {
+    padding: 10px 15px;
+    border-radius: 20px;
+    max-width: 70%;
+}
+
+.izquierda {
+    align-self: flex-start;
+    background-color: #30352E;
+    text-align: left;
+}
+
+
+.derecha {
+    align-self: flex-end;
+    background-color:  #455442;
+    color: white;
+    text-align: right;
+}
